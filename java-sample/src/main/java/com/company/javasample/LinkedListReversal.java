@@ -1,4 +1,4 @@
-package com.company.javabase;
+package com.company.javasample;
 
 import java.util.LinkedList;
 

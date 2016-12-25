@@ -1,9 +1,12 @@
-package com.company.javabase;
+package com.company.javasample;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.company.javasample.ISingleLinkedLinkList;
+import com.company.javasample.SingleLinkedLinkList;
 
 
 public class SingleLinkedLinkListTest {
